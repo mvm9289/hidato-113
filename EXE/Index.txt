@@ -1,0 +1,77 @@
+EXE/:
+
+	Datos:
+
+		- ControladorDatosEstadisticasGenerales.class
+		- ControladorDatosEstadisticasPersonales.class
+		- ControladorDatosPartidaGuardada.class
+		- ControladorDatosRanking.class
+		- ControladorDatosRepositorio.class
+		- ControladorDatosTableroEnCurso.class
+		- ControladorDatosTableroOriginal.class
+		- ControladorDatosTableroPropuesto.class
+		- ControladorDatosUsuario.class
+	
+
+	Dominio:
+		
+		- Casilla.class
+		- CasillaHidato.class
+		- ControladorEstadisticas.class
+		- ControladorPartida.class
+		- ControladorTablero.class
+		- ControladorUsuario.class
+		- Estadisticas.class
+		- EstadisticasHidato.class
+		- EstadisticasPersonales.class
+		- Partida.class
+		- PartidaGuardada.class 
+		- Posicion.class
+		- Ranking.class
+		- Repositorio.class
+		- Tablero.class
+		- TableroHidato.class
+		- TableroHidatoEnCurso.class
+		- TableroHidatoOriginal.class
+		- TableroHidatoPropuesto.class
+		- Usuario.class
+
+
+	Tiempo:
+
+		- Fecha.class
+		- Hora.class
+
+
+	Excepciones:
+
+		- InstanceNotFoundException.class
+		- InstanceRepeatedException.class
+		- PasswordIncorrectException.class
+
+
+	Tests:
+
+		- BuscarSolucion.class
+		- ProbarControladorEstadisticas.class
+		- ProbarControladorPartida.class
+		- ProbarControladorTablero.class
+		- ProbarControladorUsuario.class
+		- ProbarEstadisticasGenerales.class
+		- ProbarEstadisticasPersonales.class
+		- ProbarFecha.class
+		- ProbarHora.class
+		- ProbarPartida.class
+		- ProbarRanking.class
+		- ProbarTableroHidato.class
+		- ProbarUsuario.class
+
+
+	Utiles:
+
+		- Utiles.class
+
+
+	DriverTBC:
+
+		- inout.class
