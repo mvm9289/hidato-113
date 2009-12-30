@@ -1,0 +1,113 @@
+FONTS/Separado_por_autor:
+
+
+
+	daniel.camarasa.escubedo:
+		CAPA DE DATOS
+		- ControladorDatosTableroEnCurso.java
+		- ControladorDatosTableroOriginal.java
+		- ControladorDatosTableroPropuesto.java
+
+		CAPA DE DOMINIO
+		- ControladorPartida.java
+		- ControladorUsuario.java
+		- EstadisticasPersonales.java
+		- PartidaGuardada.java
+		- Ranking.java
+		- Usuario.java
+
+		CAPA DE PRESENTACION
+		- CargarPartida.java
+		- Deshacer.java
+		- Estadisticas.java
+		- FinalizarPartida.java
+		- ModificarPassword.java
+		- Ranking.java
+		- Tabla Estadisticas.java
+		- TablaPartidasGuardadas.java
+		- TablaRanking.java
+		- Cronometro.java
+		- VentanaPrincipal.java
+		
+		OTROS
+		- InstanceNotFoundException.java
+		- InstanfeRepeatedException.java
+		- PasswordIncorrectException.java
+		
+
+
+	alex.catarineu.morales:
+		CAPA DE DATOS
+		- ControladorDatosEstadisticasGenerales.java
+		- ControladorDatosEstadisticasPersonales.java
+
+		CAPA DE DOMINIO
+		- Algoritmos.java (CC: daniel.camarasa, miguel.angel.vico)
+		- CasillaHidato.java
+		- ControladorTablero.java
+		- Tablero.java
+		- TableroHidato.java
+		- TableroHidatoEnCurso.java
+		- TableroHidatoOriginal.java
+		
+		
+		CAPA DE PRESENTACION
+		- CrearCuenta.java
+		- Login.java
+		- Imprimir.java
+		- BarraMenu.java
+		- PanelProponerTablero.java
+		- PanelProponerTopologia.java
+		- PanelEnJuego.java
+		- PanelLogin.java
+		- GuardarPartida.java
+		- VentanaProgreso.java
+
+		OTROS
+		- Utiles.java
+		ManualUsuario (CC: daniel.camarasa, miguel.angel.vico)
+		
+
+
+	miguel.angel.vico.moya:
+		CAPA DE DATOS
+		- ControladorDatosPartidaGuardada.java
+		- ControladorDatosRanking.java
+		- ControladorDatosRepositorio.java
+		- ControladorDatosUsuario.java
+
+		CAPA DE DOMINIO
+		- ControladorEstadisticas.java
+		- EstadisticasHidato.java
+		- TableroHidatoPropuesto.java
+		
+		
+		CAPA DE PRESENTACION
+		- ControladorVistas.java (CC: daniel.camarasa, alex.catarineu)
+		- Tablero.java
+		- NuevaPartida.java
+		- Repositorio.java
+		- TablaRepositorio.java
+		- ContenedorTablero.java
+		- ContenedorConfiguracion.java
+		- BarraSuperiorEnJuego.java
+		- BarraCasillas.java
+		- BarraInferiorEnJuego.java
+		- BarraInferiorProponer.java
+		
+
+		OTROS
+		- Files.java
+		- Utiles.java
+		- FabricaTopologias.java (CC: alex.catarineu)
+		- BrowserNotFoundException.java
+		- UnrecognizedOSException.java
+		- Fecha.java
+		- Hora.java
+		- Navegador.java
+
+
+
+
+
+

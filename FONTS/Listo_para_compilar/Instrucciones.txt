@@ -1,0 +1,17 @@
+Instrucciones de Compilación/Ejecución:
+
+
+Para compilar el proyecto debemos abrir una terminal, situarnos en el directorio
+donde se encuentra el archivo Main.java y ejecutar el comando: "javac -encoding UTF8 Main.java".
+
+A continuación, debemos comprobar que las carpetas que contienen las imagenes y la
+carpeta de Manual de Usuario se encuentran en la misma carpeta que los ficheros 
+objeto .class.
+
+A la hora de ejecutar el programa podemos proceder de dos formas:
+
+	1) Ejecutando el archivo .bat.
+
+	2) Introduciendo el siguiente comando en la consola: "java Main"
+
+(Para que todo funcione correctamente no ejecutar desde el CD, pasarlo primero a disco duro)
