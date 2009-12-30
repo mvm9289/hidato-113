@@ -1,3 +1,0 @@
-hidden saves dir
-ManualUsuario dir
-Images dir
