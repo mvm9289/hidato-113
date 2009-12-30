@@ -1,0 +1,10 @@
+DOCS/:
+	Vistas: Diseño de vistas interactivo.
+	
+	Compartidas:
+		- CAMBIOS.txt : Cambios respecto a la especificación de 6/11/2009
+		- Clases Compartidas.pdf : Especificación, diagrama y tabla de 
+		     responsabilidades de clases compartidas.
+		- Estandar de programacion.pdf : Normas de programación. 
+	
+	Diagrama de Dominio.pdf : Diagrama de clases de dominio de Hidato.

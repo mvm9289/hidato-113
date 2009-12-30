@@ -1,0 +1,21 @@
+CAMBIOS RESPECTO LAS FUNCIONALIDADES ESPECIFICADAS EN EL DOCUMENTO DE LA PRIMERA ENTREGA
+
+Se pusieron 5 segundos como límite de los algoritmos de generación y resolución,
+un límite muy por debajo del que finalmente se ha tenido que poner, de 45 segundos.
+Cuando se hizo el documento de especificación no se disponía de la cantidad suficiente de
+información como para estimar la complejidad de los algoritmo de forma adecuada.
+
+Otro detalle que se comentó en el documento fue que no se permitiría al usuario la
+introducción de números que contradijeran las normas del juego en el proceso de
+resolución. Finalmente, esta comprobación no se realiza, así que el usuario puede poner
+los números de la manera que desee (el sistema asegura que están en el rango adecuado y
+que no se repiten, pero nada más). Se consideró que el sistema estaría ayudando demasiado
+al usuario si le dijera, por ejemplo, que una casilla no tenía dos números adyacentes
+consecutivos, así que se decidió descartar ésta funcionalidad.
+
+Una última funcionalidad que no se ha implementado es la opción de que el usuario viera
+paso a paso la resolución del Hidato. Se pensó que ver la resolución de un Hidato paso a
+paso, con casillas elegidas de forma aleatoria, no aportaba ninguna información al usuario
+sobre el proceso deductivo que un humano debería seguir para resolver el Hidato, así que
+no tenía mucho sentido esta opción. De todas formas, el mismo efecto se puede lograr 
+pulsando repetidas veces el botón 'Dar Pista'.

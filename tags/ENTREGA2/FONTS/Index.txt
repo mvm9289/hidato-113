@@ -1,0 +1,48 @@
+FONTS/:
+	daniel.camarasa.escubedo:
+		- ControladorDatosPartidaGuardada.java
+		- ControladorDatosUsuario.java
+		- ControladorPartida.java
+		- ControladorUsuario.java
+		- EstadisticasPersonales.java
+		- Partida.java (STUB)
+		- PartidaGuardada.java
+		- Ranking.java
+		- Usuario.java
+		- InstanceNotFoundException.java
+		- InstanfeRepeatedException.java
+		- PasswordIncorrectException.java
+		
+	alex.catarineu.morales:
+		- ControladorDatosRepositorio.java
+		- ControladorDatosTableroEnCurso.java
+		- ControladorDatosTableroOriginal.java
+		- ControladorDatosTableroPropuesto.java
+		- Casilla.java (STUB)
+		- CasillaHidato.java
+		- ControladorTablero.java
+		- Repositorio.java (STUB)
+		- Tablero.java
+		- TableroHidato.java
+		- TableroHidatoEnCurso.java
+		- TableroHidatoOriginal.java
+		- Utiles.java
+		
+	miguel.angel.vico.moya:
+		- ControladorDatosEstadisticasGenerales.java
+		- ControladorDatosEstadisticasPersonales.java
+		- ControladorDatosRanking.java
+		- ControladorEstadisticas.java
+		- Estadisticas.java (STUB)
+		- EstadisticasHidato.java
+		- Posicion.java (STUB)
+		- TableroHidatoPropuesto.java
+		- BrowserNotFoundException.java
+		- UnrecognizedOSException.java
+		- Fecha.java
+		- Hora.java
+		- Navegador.java
+	
+	Drivers: Cada uno de los códigos fuentes de los Drivers
+		que testean las clases implementadas y el programa
+		principal que lanza dichos drivers.

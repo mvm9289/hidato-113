@@ -1,0 +1,15 @@
+DOCS/:
+	Compartidas:
+		- CAMBIOS.txt : Cambios respecto a la especificación de 6/11/2009
+		- Clases Compartidas.pdf : Especificación, diagrama y tabla de 
+		     responsabilidades de clases compartidas.
+		- Estandar de programacion.pdf : Normas de programación.
+
+	Cambios_respecto_entrega1.txt : Descripción de los cambios realizados
+	     respecto a la primera entrega.
+	
+	DIAGRAMA_DATOS.pdf : Diagrama de la capa de datos.
+
+	DIAGRAMA_DOMINIO.pdf : Diagrama de la capa de dominio.
+
+	DIAGRAMA_PRESENTACION.pdf : Diagrama de la capa de presentació.

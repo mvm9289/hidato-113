@@ -1,0 +1,6 @@
+DISEÑO DE VISTAS INTERACTIVO:
+
+	Pequeña aplicación en la que se muestra el diseño de vistas y 
+	permite interactuar con dichas ventanas.
+	
+	

@@ -1,0 +1,6 @@
+FONTS/:
+
+	Separado_por_autor : Código completo del proyecto separado por autores.
+
+	Listo_para_compilar : Código completo del proyecto con la estructura
+	     de carpetas original, de manera que sea compilable y ejecutable.

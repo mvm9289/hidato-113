@@ -1,0 +1,19 @@
+
+ENTREGA DEL 20/11/09
+
+CAMBIOS RESPECTO A ENTREGA DEL 6/11/09
+
+    1. Arreglado error en la especificación de las clases Fecha y Hora: package Dominio --> package Tiempo.
+
+    2. Arreglado error en la especificación de la clase Posición: String getFecha --> Fecha getFecha.
+
+    3. Arreglado error en la especificación de la clase Partida: int setTiempo --> void setTiempo.
+
+    4. Arreglado error en el diagrama de clases compartidas: Operación privada calcularDiaDeLaSemana de la
+        clase Fecha, no se refleja en el diagrama.
+
+    5. Arreglado error en el diagrama de clases compartidas: Atributos privados DIAS_DE_LA_SEMANA y MESES de
+        la clase Fecha desaparecen.
+
+    6. Eliminadas operaciones no usadas "modificarFecha" y "modificarHora" de la clase Posición en la
+        especificación.
