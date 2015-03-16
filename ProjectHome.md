@@ -1,0 +1,3 @@
+El Hidato es un pasatiempos o puzzle, del estilo del Sudoku. Está diseñado para que sea resuelto por un único jugador, en un tiempo que en media se calcula que es de unos diez minutos.
+
+Es una invención del Dr. Gyora Benedek, un matemático Israelí. El Dr. Gyora Benedek trabaja en una importante empresa tecnológica en Israel, pero en su tiempo libre le gusta inventar juegos i puzzles lógicos. Es el inventor de juegos como Lights Out, NimX e iTop, entre otros, todos ellos con un importante trasfondo matemático y lógico.
